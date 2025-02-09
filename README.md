@@ -15,7 +15,7 @@ http://www.BTCFullNode.org/
 ---------------------
 
 # 定期更新的Dogecoin狗狗币全节点完整数据，以便让你最快速度的完成同步。
-# Dogecoin全节点数据文件最新更新至2025年1月1日
+# Dogecoin全节点数据文件最新更新至2025年2月1日
 
 # 交流电报群 / Telegram
 https://t.me/CryptoCell_Future
